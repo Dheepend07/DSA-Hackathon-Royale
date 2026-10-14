@@ -1,5 +1,5 @@
 # DSA-Hackathon-Royale
-Sloved dsa problems 
+Sloved dsa problems, 
 team of 4
 USN-
 1CR24CS047
