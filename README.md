@@ -7,14 +7,13 @@ USN-
 1CR24CS056
 1CR24CS057
 
-program-1
+program-1 
+(Python)
   Maze with keys and Doors
+  -->maze.py
 
-program-2
-  closest Pair of Points Comparative Analysis
-
-program-3
+program-3 
+(Java)
   Budget Traveller with coupons
-
-program-4
-  Exam Timetable Scheduling(Graph Coloring Chanllenge)
+  -->BudgetTraveller.java
+  
